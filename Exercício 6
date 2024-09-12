@@ -1,0 +1,6 @@
+var segundos = 4000;
+console.log(segundos);
+var horas = segundos/40;
+console.log (horas);
+var minutos = segundos/40;
+console.log(minutos) 
