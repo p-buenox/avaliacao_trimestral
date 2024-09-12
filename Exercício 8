@@ -1,0 +1,9 @@
+function coeficientes(4, 6, 7, 8, 9, 10) 
+  
+    const denominador = (6 * 9) - (6* 8)
+    const x = (7* 9 - 6 * 10) / denominador
+    const y = (4 * 10 - 7* 8) / denominador
+  
+    console.log("O valor de x é: " + x);
+    console.log("O valor de y é: " + y);
+}
