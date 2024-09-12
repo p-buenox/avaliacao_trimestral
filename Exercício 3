@@ -1,0 +1,8 @@
+const anos = 85
+  const meses = 1020.69 //Meses
+  const dias do ano  = 31046
+  const dias Ano = 365
+  const dias do mes = 30
+  let total = (anos * diasAno) + (meses * diasMes) + dias
+
+    console.log("Idade em dias é:", + total)
